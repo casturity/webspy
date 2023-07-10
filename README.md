@@ -38,7 +38,7 @@ It is able to store website URLs as hashes and detect if any changes occured by 
 4. **Rerun all tracked websites for changes:** Checks all currently tracked websites for any changes.
 5. **Quit:** Quits the tool.
 
-![WebSpy Screenshot](https://github.com/username/repository/blob/main/webspy_screenshot.png)
+![WebSpy Screenshot](https://github.com/casturity/webspy/blob/main/webspy.PNG)
 
 ## Requirements
 
