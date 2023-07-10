@@ -15,7 +15,7 @@ It is able to store website URLs as hashes and detect if any changes occured by 
 
 1. Clone this repository:
     ```
-    git clone https://github.com/YourGitHubUsername/webspy.git
+    git clone https://github.com/casturity/webspy.git
     ```
 2. Install necessary Python packages:
     ```
