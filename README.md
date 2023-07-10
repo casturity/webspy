@@ -1,5 +1,7 @@
 # WebSpy: Webpage Change Detector
 
+![WebSpy Icon Screenshot](https://github.com/casturity/webspy/blob/main/webspy-icon.png)
+
 WebSpy is a simple terminal based tool that monitors specified websites and detects any changes in their content.
 
 It is able to store website URLs as hashes and detect if any changes occured by comparing the old hash to a new hash. It uses the requests library to download the HTML content of each webpage specified in the URL list, and BeautifulSoup library to parse the HTML content. The program also removes script and style elements, comments, and extra whitespaces from the HTML, resulting in a cleaned text version of the webpage to avoid false positives with dynamic content such as advertisments. 
